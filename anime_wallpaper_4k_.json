@@ -1,0 +1,4780 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "open_app_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_url": "https://wallpapercat.com/w/full/6/9/7/1641028-1920x1080-desktop-1080p-fullmetal-alchemist-anime-background.jpg"
+    },
+	{
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/tokyo-ghoul-kaneki-ghoul-transformation-desktop-wallpaper-preview.jpg"
+    },
+	{
+      "name_category": "SAILOR MOON",
+      "wallpaper_url": "https://cdn.wallpapersafari.com/65/82/GUqPTx.jpg"
+    },
+	{
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/04/jujutsu-kaisen-mystic-sukuna-desktop-wallpaper-preview.jpg"
+    },
+	{
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_url": "https://images.alphacoders.com/908/thumb-1920-908455.jpg"
+    },
+	{
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_url": "https://images.wallpapersden.com/image/download/tokyo-revengers-4k-characters_bWVpa2WUmZqaraWkpJRpaWllrWdoaWU.jpg"
+    },
+	{
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/hunter-x-hunter-gon-killua-profile-desktop-wallpaper-preview.jpg"
+    },
+	{
+      "name_category": "GINTAMA",
+      "wallpaper_url": "http://wallpapers-clan.com/wp-content/uploads/2024/04/gintama-gintoki-sakata-anime-desktop-wallpaper-preview.jpg"
+    },
+	{
+      "name_category": "BLEACH",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/bleach-ichigo-orange-eyes-desktop-wallpaper-preview.jpg"
+    },
+	{
+      "name_category": "DEATH NOTE",
+      "wallpaper_url": "https://images.wallpapersden.com/image/download/light-yagami-hd-death-note_bWVtameUmZqaraWkpJRnaW1lrWZqams.jpg"
+    },
+	{
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_url": "https://cdn.wallpapersafari.com/41/90/SlK0to.jpg"
+    },
+	{
+      "name_category": "SAMURAI X",
+      "wallpaper_url": "https://images3.alphacoders.com/132/1321549.jpeg"
+    },
+	{
+      "name_category": "INUYASHA",
+      "wallpaper_url": "https://cdn.wallpapersafari.com/50/76/y1TrQz.jpg"
+    },
+	{
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_url": "https://images7.alphacoders.com/911/911586.jpg"
+    },
+	{
+      "name_category": "POKEMON",
+      "wallpaper_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/147C0/production/_132740938_indeximage.jpg"
+    },
+	{
+      "name_category": "NARUTO",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/aesthetic-naruto-uzumaki-blue-desktop-wallpaper-preview.jpg"
+    },
+	{
+      "name_category": "ONE PIECE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/one-piece-monkey-d-luffy-rubber-powers-desktop-wallpaper-preview.jpg"
+    },
+	{
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/04/one-punch-man-saitama-epic-desktop-wallpaper-preview.jpg"
+    },
+	{
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_url": "https://images.wallpapersden.com/image/download/my-hero-academia-4k-cool-art_bWVrZmiUmZqaraWkpJRobWllrWdma2U.jpg"
+    },
+	{
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp15727630.jpg"
+    },
+	{
+      "name_category": "FAIRY TAIL",
+      "wallpaper_url": "https://wallpapers.com/images/featured/fairy-tail-background-u2fir9xzms78mxyy.jpg"
+    },
+	{
+      "name_category": "DRAGON BALL",
+      "wallpaper_url": "https://images7.alphacoders.com/902/thumb-1920-902283.jpg"
+    },
+	{
+      "name_category": "DEMON SLAYER",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/04/demon-slayer-tanjiro-flame-dragon-art-desktop-wallpaper-preview.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/1015401.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/100/thumb-1920-1001232.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/811/thumb-1920-811213.png"
+    },
+    {
+      "id": 4,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/924/thumb-1920-924326.png"
+    },
+	{
+      "id": 5,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/925/thumb-1920-925215.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/983/thumb-1920-983372.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/6f/c4/18/6fc41800a8a376e5d025055549b62280.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/90/2f/94/902f9464a15190b637e6041b7f95ad90.jpg"
+    },
+	{
+      "id": 9,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/19/5b/21/195b21515f13aff8d74fab2052b2f5b1.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/22/10/cd/2210cde570b9633a3fa3df2367853382.jpg"
+    },
+	{
+      "id": 11,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/3a/d3/bb/3ad3bb3e1775336d38086d2b928b9bbd.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/796/thumb-1920-796453.jpg"
+    },
+	{
+      "id": 13,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp13017989.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "FULLMETAL ALCHEMIST",
+      "wallpaper_name": "Fullmetal Alchemist Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/06/fullmetal-alchemist-edward-dark-wallpaper.jpg"
+    },
+	{
+      "id": 15,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/kaneki-ken-cell-phone-red-wallpaper-preview.jpg"
+    },
+    {
+      "id": 16,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.kibrispdr.org/data/974/tokyo-ghoul-wallpaper-iphone-11.jpg"
+    },
+	{
+      "id": 17,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/kaneki-tokyo-ghoul-iphone-background-nergr2awqsv009io.jpg"
+    },
+    {
+      "id": 18,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp7159901.jpg"
+    },
+	{
+      "id": 19,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/anime-tokyo-ghoul-kaneki-ken-by-1125x2436.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/5k-tokyo-ghoul-1q-1125x2436.jpg"
+    },
+	{
+      "id": 21,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/tokyo-ghoul-anime-4k-o1-1125x2436.jpg"
+    },
+    {
+      "id": 22,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/tokyo-ghoul-re-sn-1125x2436.jpg"
+    },
+	{
+      "id": 23,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/4/a/b/816078-1080x1920-phone-full-hd-juuzou-suzuya-wallpaper-photo.jpg"
+    },
+    {
+      "id": 24,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "http://wallpaper.forfun.com/fetch/2d/2d136d77f623369f31777cf48520f6c0.jpeg"
+    },
+	{
+      "id": 25,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/9e/9c/77/9e9c77c1ece625d76df3b203804c3a37.jpg"
+    },
+    {
+      "id": 26,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/840/840088.jpg"
+    },
+	{
+      "id": 27,
+      "name_category": "TOKYO GHOUL",
+      "wallpaper_name": "Tokyo Ghoul Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/788/788546.jpg"
+    },
+    {
+      "id": 28,
+      "name_category": "SAILOR MOON",
+      "wallpaper_name": "Sailor Moon Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/sailor-moon-pink-aesthetic-wallpaper-preview.jpg"
+    },
+	{
+      "id": 29,
+      "name_category": "SAILOR MOON",
+      "wallpaper_name": "Sailor Moon Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/sailor-moon-talking-on-phone-cute-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 30,
+      "name_category": "SAILOR MOON",
+      "wallpaper_name": "Sailor Moon Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/sailor-moon-cosmic-aura-dark-wallpaper-preview.jpg"
+    },
+	{
+      "id": 31,
+      "name_category": "SAILOR MOON",
+      "wallpaper_name": "Sailor Moon Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/sailor-moon-anime-black-wallpaper-preview.jpg"
+    },
+	{
+      "id": 32,
+      "name_category": "SAILOR MOON",
+      "wallpaper_name": "Sailor Moon Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/angry-sailor-moon-dark-wallpaper-preview.jpg"
+    },
+	{
+      "id": 33,
+      "name_category": "SAILOR MOON",
+      "wallpaper_name": "Sailor Moon Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/sailor-moon-cute-hd-wallpaper-preview.jpg"
+    },
+	{
+      "id": 34,
+      "name_category": "SAILOR MOON",
+      "wallpaper_name": "Sailor Moon Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/05/sailor-moon-baddie-black-pink-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 35,
+      "name_category": "SAILOR MOON",
+      "wallpaper_name": "Sailor Moon Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/07/beautiful-sailor-moon-art-wallpaper.jpg"
+    },
+	{
+      "id": 36,
+      "name_category": "SAILOR MOON",
+      "wallpaper_name": "Sailor Moon Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/sailor-moon-pink-hair-aesthetic-wallpaper-preview-scaled.jpg"
+    },
+	{
+      "id": 37,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/satoru-gojo-dark-pumpkin-halloween-wallpaper-preview.jpg"
+    },
+	{
+      "id": 38,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/satoru-gojo-neon-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 39,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/03/satoru-gojo-blue-vs-red-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 40,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/03/mysterious-shadowed-gojo-glowing-blue-wallpaper-preview.jpg"
+    },
+	{
+      "id": 41,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/03/satoru-gojo-glowing-blue-eyes-intense-wallpaper-preview.jpg"
+    },
+	{
+      "id": 42,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/intense-satoru-gojo-glowing-eyes-wallpaper-preview.jpg"
+    },
+	{
+      "id": 43,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/ryomen-sukuna-power-clash-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 44,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/jujutsu-kaisen-ryomen-sukuna-megumi-fushiguro-powerful-matching-wallpaper-2-preview.jpg"
+    },
+	{
+      "id": 45,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/jujutsu-kaisen-ryomen-sukuna-dark-background-wallpaper-preview.jpg"
+    },
+	{
+      "id": 46,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/jujutsu-kaisen-choso-dark-blue-wallpaper-preview.jpg"
+    },
+	{
+      "id": 47,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/yuji-itadori-jujutsu-kaisen-intense-look-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 48,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/choso-jujutsu-kaisen-blue-background-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 49,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/itadori-yuji-jujutsu-kaisen-dark-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 50,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/jujutsu-kaisen-choso-fierce-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 51,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/choso-shadow-wielder-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 52,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/04/jjk-yuuji-itadori-awesome-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 53,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/05/jjk-gojo-black-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 54,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/jjk-cool-gojo-wallpaper-pr.jpg"
+    },
+	{
+      "id": 55,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/jujutsu-kaisen-grimacing-satoru-gojo-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 56,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/11/jujutsu-kaisen-ryomen-sukuna-cool-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 57,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/jujutsu-kaisen-smiling-gojo-satoru-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 58,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/jujutsu-kaisen-gojo-cool-style-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 59,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/jujutsu-kaisen-yuji-itadori-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 60,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/jujutsu-kaisen-itadori-yuji-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 61,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/yuji-itadori-intense-gaze-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 62,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/9/6/b/24755-1080x2340-iphone-hd-jujutsu-kaisen-tv-series-background.jpg"
+    },
+	{
+      "id": 63,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/personajes-jujutsu-kaisen-13101.jpg"
+    },
+	{
+      "id": 64,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/b/7/9/184740-1080x1920-iphone-1080p-jujutsu-kaisen-tv-series-background-image.jpg"
+    },
+	{
+      "id": 65,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp13808303.jpg"
+    },
+	{
+      "id": 66,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/1011096.jpeg"
+    },
+	{
+      "id": 67,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012718.png"
+    },
+	{
+      "id": 68,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012682.png"
+    },
+	{
+      "id": 69,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012681.png"
+    },
+	{
+      "id": 70,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012717.png"
+    },
+	{
+      "id": 71,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/100/thumb-1920-1009846.jpg"
+    },
+	{
+      "id": 72,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/930/thumb-1920-930892.jpg"
+    },
+	{
+      "id": 73,
+      "name_category": "JUJUTSU KAISEN",
+      "wallpaper_name": "Jujutsu Kaisen Wallpaper 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/1013973.jpeg"
+    },
+	{
+      "id": 73,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/d/5/0/27778-1440x2560-samsung-hd-the-seven-deadly-sins-wallpaper.jpg"
+    },
+	{
+      "id": 74,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/seven-deadly-sins-iphone-x92e9mnof06vbqaq.jpg"
+    },
+	{
+      "id": 75,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/a4/a4e4a3e44ff6977e9776c536a5b41e45.jpeg"
+    },
+	{
+      "id": 76,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/4/0/b/953168-2160x3840-iphone-4k-meliodas-wallpaper.jpg"
+    },
+	{
+      "id": 77,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/41/41af856742c80eab73c6b4735ae0320e.jpeg"
+    },
+	{
+      "id": 78,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/91/91531c27ab7d50f83d2ab6a8be7a8e20.jpeg"
+    },
+	{
+      "id": 79,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/27/27a964e9a5a2644ea66e718eabe50323.jpeg"
+    },
+	{
+      "id": 80,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/f8/f812711571ba62b5c7acb992c1e730e7.jpeg"
+    },
+	{
+      "id": 81,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f5/ca/b4/f5cab4735f2b85df3d188a006abc9c95.jpg"
+    },
+	{
+      "id": 82,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://c4.wallpaperflare.com/wallpaper/228/628/3/meliodas-seven-deadly-sins-the-seven-deadly-sins-hd-wallpaper-preview.jpg"
+    },
+	{
+      "id": 83,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp5833749.jpg"
+    },
+	{
+      "id": 84,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/996/996970.jpg"
+    },
+	{
+      "id": 85,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/808/thumb-1920-808591.png"
+    },
+	{
+      "id": 86,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/956/thumb-1920-956788.png"
+    },
+	{
+      "id": 87,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/948/thumb-1920-948475.jpg"
+    },
+	{
+      "id": 88,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/839/thumb-1920-839314.jpg"
+    },
+	{
+      "id": 89,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/916/thumb-1920-916229.jpg"
+    },
+	{
+      "id": 90,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/778/thumb-1920-778746.jpg"
+    },
+	{
+      "id": 91,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/927/thumb-1920-927943.jpg"
+    },
+	{
+      "id": 92,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/956/thumb-1920-956136.jpg"
+    },
+	{
+      "id": 93,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/824/thumb-1920-824890.jpg"
+    },
+	{
+      "id": 94,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/926/thumb-1920-926257.jpg"
+    },
+	{
+      "id": 95,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/918/thumb-1920-918368.png"
+    },
+	{
+      "id": 96,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/717/thumb-1920-717431.jpg"
+    },
+	{
+      "id": 97,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/795/thumb-1920-795315.jpg"
+    },
+	{
+      "id": 98,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/685/thumb-1920-685627.png"
+    },
+	{
+      "id": 99,
+      "name_category": "SEVEN DEADLY SINS",
+      "wallpaper_name": "Seven Deadly Sins Wallpaper 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/807/thumb-1920-807741.jpg"
+    },
+	{
+      "id": 100,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/9/9/a/30323-1238x2400-iphone-hd-tokyo-revengers-background.jpg"
+    },
+	{
+      "id": 102,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/5/4/6/95338-1080x1920-iphone-full-hd-tokyo-revengers-wallpaper.jpg"
+    },
+	{
+      "id": 103,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/56/563a3c794fd28d22faa873f3910484ca.jpeg"
+    },
+	{
+      "id": 104,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/991/thumb-1920-991375.png"
+    },
+	{
+      "id": 105,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/100/thumb-1920-1001778.jpg"
+    },
+	{
+      "id": 106,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/991/thumb-1920-991867.jpg"
+    },
+	{
+      "id": 107,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/945/thumb-1920-945869.jpg"
+    },
+	{
+      "id": 108,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/993/thumb-1920-993942.jpg"
+    },
+	{
+      "id": 109,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/955/thumb-1920-955601.jpg"
+    },
+	{
+      "id": 110,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/959/thumb-1920-959268.jpg"
+    },
+	{
+      "id": 111,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/945/thumb-1920-945874.jpg"
+    },
+	{
+      "id": 112,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/991/thumb-1920-991381.jpeg"
+    },
+	{
+      "id": 113,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/01/011528e94dfaceb4f5c0ca0b1231f55c.jpeg"
+    },
+	{
+      "id": 114,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp10556528.jpg"
+    },
+	{
+      "id": 115,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/e2/e276070faa5b6aac20f582d9e6406674.jpeg"
+    },
+	{
+      "id": 116,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/02/0277a2f341eaee925ab6459d07574eda.jpeg"
+    },
+	{
+      "id": 117,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/37/378b1af76d78c4a200f84f781e54fd5d.jpeg"
+    },
+	{
+      "id": 118,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/90/90397e2be5b8ba0e10780f8f81b27855.jpeg"
+    },
+	{
+      "id": 119,
+      "name_category": "TOKYO REVENGERS",
+      "wallpaper_name": "Tokyo Revengers Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/8c/8c84a34e2b619661863c6aab7e4c4f8a.jpeg"
+    },
+	{
+      "id": 120,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/d/1/b/745106-1432x2170-iphone-hd-hunter-x-hunter-background.jpg"
+    },
+	{
+      "id": 121,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/hxh-aesthetic-gon-dark-wallpaper-preview.jpg"
+    },
+	{
+      "id": 122,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/hunter-x-hunter-hisoka-morow-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 123,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/hunter-x-hunter-kurapika-cross-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 124,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/gon-hunter-x-hunter-wink-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 125,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/killua-zoldyck-electric-power-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 126,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/04/vibrant-killua-and-gon-hunter-x-hunter-matching-wallpaper-2-preview.jpg"
+    },
+	{
+      "id": 127,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/07/hunter-x-hunter-gon-green-wallpaper.jpg"
+    },
+	{
+      "id": 128,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1013759.png"
+    },
+	{
+      "id": 129,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1013758.png"
+    },
+	{
+      "id": 130,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1014127.png"
+    },
+	{
+      "id": 131,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1016311.jpg"
+    },
+	{
+      "id": 132,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1014126.png"
+    },
+	{
+      "id": 133,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/858/thumb-1920-858914.png"
+    },
+	{
+      "id": 134,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.theanimegallery.com/theanimegallery/33d64ca0-5bb1-4f83-b1e5-ec0544964db8-hunter-x-hunter-wallpaper.webp"
+    },
+	{
+      "id": 135,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp9321873.jpg"
+    },
+	{
+      "id": 136,
+      "name_category": "HUNTER X HUNTER",
+      "wallpaper_name": "Hunter x Hunter Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1014125.png"
+    },
+	{
+      "id": 137,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/984/thumb-1920-984684.jpg"
+    },
+	{
+      "id": 138,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/ee/7c/67/ee7c672fb420f74b88de6f0f37d5dbb5.jpg"
+    },
+	{
+      "id": 139,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/991/thumb-1920-991500.jpg"
+    },
+	{
+      "id": 140,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/b/5/7/1204631-1080x2280-iphone-hd-gintoki-sakata-wallpaper-image.jpg"
+    },
+	{
+      "id": 141,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/ff/ff97ea6be253425d434f737c3a6da73d.jpeg"
+    },
+	{
+      "id": 142,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/79/7966c7385d3caf6c271a08bfd73734e1.jpeg"
+    },
+	{
+      "id": 143,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/4/f/f/1204584-2100x2950-iphone-hd-gintoki-sakata-background-photo.jpg"
+    },
+	{
+      "id": 144,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/0/6/a/59498-1716x2574-phone-hd-gintama-the-final-wallpaper-image.jpg"
+    },
+	{
+      "id": 145,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/741/741732.jpg"
+    },
+	{
+      "id": 146,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f4/ed/a9/f4eda9e5a3c74c32859b6a5a1a04136c.jpg"
+    },
+	{
+      "id": 147,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.zerochan.net/Sakata.Gintoki.full.2056110.jpg"
+    },
+	{
+      "id": 148,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.zerochan.net/Sakata.Gintoki.full.4353004.jpg"
+    },
+	{
+      "id": 149,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/929/929721.jpg"
+    },
+	{
+      "id": 150,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/717/717847.jpg"
+    },
+	{
+      "id": 151,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/9/8/b/1204344-1080x1920-phone-full-hd-gintama-tv-series-wallpaper.jpg"
+    },
+	{
+      "id": 152,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/0/8/b/59473-1080x2160-iphone-hd-gintama-the-final-wallpaper-photo.jpg"
+    },
+	{
+      "id": 153,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/06/gintama-sakata-gintoki-art-wallpaper.jpg"
+    },
+	{
+      "id": 154,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://s2.best-wallpaper.net/wallpaper/iphone/1607/Gintama-Japanese-anime_iphone_750x1334.jpg"
+    },
+	{
+      "id": 155,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://e1.pxfuel.com/desktop-wallpaper/986/931/desktop-wallpaper-gintama-classic-anime-750x1334-iphone-8-7-6-6s-anime-boy-iphone.jpg"
+    },
+	{
+      "id": 156,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/18/18bcb516c1c2d167db061cb06e605c96.jpeg"
+    },
+	{
+      "id": 157,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/ef/02/e6/ef02e6edad1c4eedf5946d41d6dea997.jpg"
+    },
+	{
+      "id": 158,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/a0/a086e49114916d7d6b893c8710c4f70d.jpeg"
+    },
+	{
+      "id": 159,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/3/3/7/60081-1080x1920-phone-1080p-gintama-the-final-wallpaper-image.jpg"
+    },
+	{
+      "id": 160,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/60/e6/dc/60e6dc7d32b896e49cbf0a24057db6ac.jpg"
+    },
+	{
+      "id": 161,
+      "name_category": "GINTAMA",
+      "wallpaper_name": "Gintama Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/0c/6a/ff/0c6aff8a92d7339645d1c8cc994ac2b7.jpg"
+    },
+	{
+      "id": 162,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/ichigo-kurosaki-with-smartphone-bleach-wallpaper-preview.jpg"
+    },
+	{
+      "id": 163,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/ichigo-red-mode-bleach-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 164,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/ichigo-kurosaki-sword-red-aura-bleach-wallpaper-preview.jpg"
+    },
+	{
+      "id": 165,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/kenpachi-zaraki-bleach-anime-samurai-sword-wallpaper-preview.jpg"
+    },
+	{
+      "id": 166,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/kenpachi-zaraki-bleach-anime-captain-power-wallpaper-preview.jpg"
+    },
+	{
+      "id": 167,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/ichigo-kurosaki-fierce-zangetsu-bleach-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 168,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/ichigo-kurosaki-hollow-blade-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 169,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapersok.com/images/hd/smiling-hollow-ichigo-close-up-bleach-iphone-fq4v6x7c124cuqo0.jpg"
+    },
+	{
+      "id": 170,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/e4/59/6a/e4596ae895f848a3480aedd71ce3360b.jpg"
+    },
+	{
+      "id": 172,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapersok.com/images/high/bankai-ichigo-bleach-iphone-ptyet33lkybcg67v.jpg"
+    },
+	{
+      "id": 173,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012765.png"
+    },
+	{
+      "id": 174,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/89/d4/65/89d465d0ca0188d6ec38162baddf4eec.jpg"
+    },
+	{
+      "id": 175,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/bleach-pictures-00ojas0064idd3wa.jpg"
+    },
+	{
+      "id": 176,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/1012768.png"
+    },
+	{
+      "id": 177,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012767.png"
+    },
+	{
+      "id": 178,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/871/thumb-1920-871777.png"
+    },
+	{
+      "id": 179,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1013671.png"
+    },
+	{
+      "id": 180,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/409/thumb-1920-409370.jpg"
+    },
+	{
+      "id": 181,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1013670.png"
+    },
+	{
+      "id": 182,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/739/579/HD-wallpaper-kurosaki-ichigo-anime-bleach.jpg"
+    },
+	{
+      "id": 183,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.ixpap.com/images/2021/03/bleach-wallpaper-ixpap-18.jpg"
+    },
+	{
+      "id": 184,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/b1/b1c3cdd3b22690d6625e8ad4b70d1b80.jpeg"
+    },
+	{
+      "id": 185,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp13607094.jpg"
+    },
+	{
+      "id": 186,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp12509636.jpg"
+    },
+	{
+      "id": 187,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper-house.com/data/out/6/wallpaper2you_93856.jpg"
+    },
+	{
+      "id": 188,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp12780228.jpg"
+    },
+	{
+      "id": 189,
+      "name_category": "BLEACH",
+      "wallpaper_name": "Bleach Wallpaper 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/930/thumb-1920-930666.png"
+    },
+	{
+      "id": 190,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/ryuk-death-note-spooky-red-wallpaper-preview.jpg"
+    },
+	{
+      "id": 191,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/03/light-yagami-vs-l-intense-aura-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 192,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/death-note-ryuk-art-wallpaper-preview.jpg"
+    },
+	{
+      "id": 193,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/l-death-note-dark-aesthetic-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 194,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/09/death-note-L-amoled-wallpaper.jpg"
+    },
+	{
+      "id": 195,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/light-yagami-death-note-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 196,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/10/l-death-note-black-art-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 197,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/07/death-note-light-yagami-black-red-wallpaper.jpg"
+    },
+	{
+      "id": 198,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/06/death-note-light-yagami-wallpaper.jpg"
+    },
+	{
+      "id": 199,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/death-note-l-with-red-eyes-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 200,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/ryuk-death-note-4k-ka-1125x2436.jpg"
+    },
+	{
+      "id": 201,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/ryuk-in-the-dark-from-death-note-iphone-87frtdlcwo1dm2ny.jpg"
+    },
+	{
+      "id": 202,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012685.png"
+    },
+	{
+      "id": 203,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012686.png"
+    },
+	{
+      "id": 204,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012687.png"
+    },
+	{
+      "id": 205,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/983/thumb-1920-983369.jpg"
+    },
+	{
+      "id": 206,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/100/thumb-1920-1002639.png"
+    },
+	{
+      "id": 207,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012684.png"
+    },
+	{
+      "id": 208,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/870/thumb-1920-870252.png"
+    },
+	{
+      "id": 209,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/938/thumb-1920-938749.jpg"
+    },
+	{
+      "id": 210,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp13047336.png"
+    },
+	{
+      "id": 211,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp5000419.jpg"
+    },
+	{
+      "id": 212,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp13222157.jpg"
+    },
+	{
+      "id": 213,
+      "name_category": "DEATH NOTE",
+      "wallpaper_name": "Death Note Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/10/l-death-note-black-art-wallpaper.jpg"
+    },
+	{
+      "id": 214,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/eren-yeager-intense-stare-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 215,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/levi-ackerman-dark-fashion-aot-wallpaper-preview.jpg"
+    },
+	{
+      "id": 216,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/mikasa-ackerman-red-scarf-dark-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 217,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/attack-on-titan-mikasa-red-scarf-wallpaper-preview.jpg"
+    },
+	{
+      "id": 218,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/aot-mikasa-red-and-grey-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 219,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/04/aot-eren-yeager-aesthetic-wallpaper.jpg"
+    },
+	{
+      "id": 220,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/eren-yeager-survey-corps-determined-look-tap-to-switch-wallpaper-2-preview.jpg"
+    },
+	{
+      "id": 221,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/eren-yeager-attack-on-titan-green-glow-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 222,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/08/aot-eren-yeager-epic-wallpaper.jpg"
+    },
+	{
+      "id": 223,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/berserk-eren-yeager-black-wallpaper-pr.jpg"
+    },
+	{
+      "id": 224,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/attack-on-titan-eren-rage-mode-wallpaper-preview.jpg"
+    },
+	{
+      "id": 225,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/epic-squad-attack-on-titan-wallpaper-preview.jpg"
+    },
+	{
+      "id": 226,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/attack-on-titan-founding-titan-dramatic-wallpaper-preview.jpg"
+    },
+	{
+      "id": 227,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/attack-on-titan-epic-faceoff-wallpaper-preview.jpg"
+    },
+	{
+      "id": 228,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/03/levi-ackerman-confident-mood-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 229,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/attack-on-titan-wings-of-freedom-emblem-wallpaper-preview.jpg"
+    },
+	{
+      "id": 230,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/epic-levi-erwin-battle-matching-wallpaper-preview.jpg"
+    },
+	{
+      "id": 231,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/mikasa-red-coat-christmas-tree-wallpaper-preview.jpg"
+    },
+	{
+      "id": 232,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/survey-corps-soldier-wallpaper-preview.jpg"
+    },
+	{
+      "id": 233,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/survey-corps-emblem-wallpaper-preview.jpg"
+    },
+	{
+      "id": 234,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/levi-ackerman-serious-look-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 235,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/attack-on-titan-dark-theme-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 236,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/aot-levi-ackerman-battle-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 237,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/05/levi-ackerman-black-attack-on-titan-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 238,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/aot-eren-yeager-black-wallpaper-pr.jpg"
+    },
+	{
+      "id": 239,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/attack-on-titan-intense-levi-ackerman-art-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 240,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/10/mikasa-ackerman-cool-white-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 241,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/10/aot-levi-ackerman-in-jacket-red-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 242,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/09/attack-on-titan-mikasa-white-background-wallpaper.jpg"
+    },
+	{
+      "id": 243,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/08/aot-cool-armin-art-wallpaper.jpg"
+    },
+	{
+      "id": 244,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/07/attack-on-titan-levi-ackerman-art-wallpaper.jpg"
+    },
+	{
+      "id": 245,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/01/aot-mikasa-ackerman-aesthetic-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 246,
+      "name_category": "ATTACK ON TITAN",
+      "wallpaper_name": "Attack On Titan Wallpaper 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/yellow-lit-eyes-attack-on-titan-iphone-vzf6cnqyuar1h2ll.jpg"
+    },
+	{
+      "id": 247,
+      "name_category": "SAMURAI X",
+      "wallpaper_name": "Samurai X Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/64/98/f2/6498f2dcdd5ee32761afcd91eb86e90c.jpg"
+    },
+	{
+      "id": 248,
+      "name_category": "SAMURAI X",
+      "wallpaper_name": "Samurai X Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/41/c1/4e/41c14eabe7677b2f30e596cf9aa6f6af.jpg"
+    },
+	{
+      "id": 249,
+      "name_category": "SAMURAI X",
+      "wallpaper_name": "Samurai X Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f4/96/b0/f496b0e4b5ac03da6f3a3530003e4ff4.jpg"
+    },
+	{
+      "id": 250,
+      "name_category": "SAMURAI X",
+      "wallpaper_name": "Samurai X Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp14919245.webp"
+    },
+	{
+      "id": 251,
+      "name_category": "SAMURAI X",
+      "wallpaper_name": "Samurai X Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://rare-gallery.com/thumbnail/5432842-kenshin-himura-katana-rurouni-kenshin-meiji-kenkaku-romantan.jpg"
+    },
+	{
+      "id": 252,
+      "name_category": "SAMURAI X",
+      "wallpaper_name": "Samurai X Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/0e/23/32/0e2332ad1c45c233eb70e3580fbffead.jpg"
+    },
+	{
+      "id": 253,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/969/969444.jpg"
+    },
+	{
+      "id": 254,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/998/thumb-1920-998379.jpg"
+    },
+	{
+      "id": 255,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/969/thumb-1920-969444.jpg"
+    },
+	{
+      "id": 256,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/963/thumb-1920-963507.jpg"
+    },
+	{
+      "id": 257,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/833/thumb-1920-833935.jpg"
+    },
+	{
+      "id": 258,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/874/thumb-1920-874950.jpg"
+    },
+	{
+      "id": 259,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "http://mfiles.alphacoders.com/754/thumb-1920-754979.jpg"
+    },
+	{
+      "id": 260,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/833/thumb-1920-833934.jpg"
+    },
+	{
+      "id": 261,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/715/thumb-1920-715369.jpg"
+    },
+	{
+      "id": 262,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/781/thumb-1920-781628.jpg"
+    },
+	{
+      "id": 263,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/42/42aae5a2cb816e1822aacad1dad73155.jpeg"
+    },
+	{
+      "id": 264,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/a0/a0e830101193f55ae06bb3a011e61497.jpeg"
+    },
+	{
+      "id": 265,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/featured/inuyasha-phone-dmwn13oulkq8tyxs.jpg"
+    },
+	{
+      "id": 266,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/44/f2/d4/44f2d452fbfb559d9c9ee5ab796fcd48.jpg"
+    },
+	{
+      "id": 267,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/7/9/c/753059-1080x2020-iphone-hd-inuyasha-and-sesshomaru-background.jpg"
+    },
+	{
+      "id": 268,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/39/76/4e/39764e801e2dd3eca4ffe623b7a37914.jpg"
+    },
+	{
+      "id": 269,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp6307122.jpg"
+    },
+	{
+      "id": 270,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.ixpap.com/images/2022/07/Inuyasha-Wallpaper-3.jpg"
+    },
+	{
+      "id": 271,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/inuyasha-and-sesshomaru-feudal-japan-matching-wallpaper-preview.jpg"
+    },
+	{
+      "id": 272,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp6307548.jpg"
+    },
+	{
+      "id": 273,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp6306861.jpg"
+    },
+	{
+      "id": 274,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://tgcomics512.com/wp-content/uploads/2023/05/Inuyasha-scaled.jpg"
+    },
+	{
+      "id": 275,
+      "name_category": "INUYASHA",
+      "wallpaper_name": "Inuyasha Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/914/thumb-1920-914757.jpg"
+    },
+	{
+      "id": 276,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://e0.pxfuel.com/wallpapers/729/21/desktop-wallpaper-iphone-detective-conan-phone-conan-edojawa.jpg"
+    },
+	{
+      "id": 278,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/88/4a/fe/884afea2d78ec7d24042ac80e0fac624.jpg"
+    },
+	{
+      "id": 279,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/8/9/f/26737-1242x2208-samsung-hd-detective-conan-background-image.jpg"
+    },
+	{
+      "id": 280,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/964/thumb-1920-964517.jpg"
+    },
+	{
+      "id": 281,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp13053367.png"
+    },
+	{
+      "id": 282,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/ab/3f/75/ab3f75cdd894ff55f6e5b91f1cebfd1f.jpg"
+    },
+	{
+      "id": 283,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp13053597.jpg"
+    },
+	{
+      "id": 284,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/c/9/2/26464-1080x1920-samsung-full-hd-detective-conan-wallpaper.jpg"
+    },
+	{
+      "id": 285,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp13053557.jpg"
+    },
+	{
+      "id": 286,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/91/912016857ab2c9038d915419e6f4e2f0.jpeg"
+    },
+	{
+      "id": 287,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://media.craiyon.com/2025-09-21/T0RWg9TNTEWAVGrAcE41Nw.webp"
+    },
+	{
+      "id": 288,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.theanimegallery.com/theanimegallery/e88ba860-5bea-4301-a1ff-2f8053ba2264-detective-conan-wallpaper.webp"
+    },
+	{
+      "id": 289,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.theanimegallery.com/theanimegallery/034bda09-cd58-4e0e-8fcf-ac4444539985-detective-conan-wallpaper.webp"
+    },
+	{
+      "id": 290,
+      "name_category": "DETECTIVE CONAN",
+      "wallpaper_name": "Detective Conan Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://imgproxy.iher.ai/600x0,jpeg,q85/https://cdn.iher.ai/background/5029634975420387329"
+    },
+	{
+      "id": 291,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/bulbasaur-pumpkin-harvest-cute-fall-wallpaper-preview.jpg"
+    },
+	{
+      "id": 292,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/zombie-pikachu-halloween-horror-wallpaper-preview.jpg"
+    },
+	{
+      "id": 293,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/surfing-pikachu-tropical-ocean-fun-wallpaper-preview.jpg"
+    },
+	{
+      "id": 294,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/gengar-spooky-style-pokemon-smile-wallpaper-preview.jpg"
+    },
+	{
+      "id": 295,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/gengar-spooky-purple-alley-wallpaper-preview.jpg"
+    },
+	{
+      "id": 296,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/psyduck-trippy-psychedelic-pokemon-art-wallpaper-preview.jpg"
+    },
+	{
+      "id": 297,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/mewtwo-psychic-aurora-glow-pokemon-wallpaper-preview.jpg"
+    },
+	{
+      "id": 298,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/ash-and-pikachu-energetic-matching-wallpaper-preview.jpg"
+    },
+	{
+      "id": 299,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/pokemon-lapras-serene-ocean-wallpaper-preview.jpg"
+    },
+	{
+      "id": 300,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/legend-rise-suicune-pokemon-art-wallpaper-preview.jpg"
+    },
+	{
+      "id": 301,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/pokemon-gengar-dark-vibes-hd-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 302,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/03/squirtle-vs-charmander-water-fire-matching-wallpaper-preview.jpg"
+    },
+	{
+      "id": 303,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/stunning-ash-ketchum-pikachu-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 304,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/pokemon-umbreon-moonlight-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 305,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/pokemon-mimikyu-dark-scene-wallpaper-preview.jpg"
+    },
+	{
+      "id": 306,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/ash-ketchum-and-pikachu-cool-matching-wallpaper-preview.jpg"
+    },
+	{
+      "id": 307,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/pokemon-greninja-minimalist-wallpaper-preview.jpg"
+    },
+	{
+      "id": 308,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/pokemon-squirtle-squad-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 309,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/mewtwo-legendary-pokemon-jungle-wallpepr-preview.jpg"
+    },
+	{
+      "id": 310,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/pokemon-charizard-flame-battle-wallpaper-preview.jpg"
+    },
+	{
+      "id": 311,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/lucario-meditation-waterfall-aura-wallpaper-preview.jpg"
+    },
+	{
+      "id": 312,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/forest-shadows-umbreon-pokemon-wallpaper-preview.jpg"
+    },
+	{
+      "id": 313,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/majestic-lapras-art-style-pokemon-wallpaper-preview.jpg"
+    },
+	{
+      "id": 314,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/pikachu-retro-toony-style-wallpaper-preview.jpg"
+    },
+	{
+      "id": 315,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/mimikyu-ghostly-aura-pokemon-wallpaper-preview.jpg"
+    },
+	{
+      "id": 316,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/suicune-galaxy-reflection-pokemon-wallpaper-preview.jpg"
+    },
+	{
+      "id": 317,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/ash-pikachu-iconic-pokemon-duo-matching-wallpapers-preview-2.jpg"
+    },
+	{
+      "id": 318,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/pikachu-thunderbolt-epic-attack-wallpaper-preview.jpg"
+    },
+	{
+      "id": 319,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/psyduck-cartoon-style-pokemon-wallpaper-preview.jpg"
+    },
+	{
+      "id": 320,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/pokemon-garchomp-cartoon-style-wallpaper-preview.jpg"
+    },
+	{
+      "id": 321,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/pastel-snorlax-face-cute-pokemon-wallpaper-preview.jpg"
+    },
+	{
+      "id": 322,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/07/pokemon-bulbasaur-black-wallpaper.jpg"
+    },
+	{
+      "id": 323,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/pikachu-eevee-happy-pokemon-matching-wallpaper-preview.jpg"
+    },
+	{
+      "id": 324,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/snorlax-pokemon-cute-style-wallpaper-preview.jpg"
+    },
+	{
+      "id": 325,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/pokemon-lapras-water-sunset-wallpaper-preview.jpg"
+    },
+	{
+      "id": 326,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/pokemon-lucario-blue-sky-battle-pose-wallpaper-preview.jpg"
+    },
+	{
+      "id": 327,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/04/mighty-pikachu-thor-mashup-dark-wallpaper-preview.jpg"
+    },
+	{
+      "id": 328,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/gengar-silhouette-moonlight-purple-sky-wallpaper-preview.jpg"
+    },
+	{
+      "id": 329,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/pikachu-santa-hat-christmas-wallpaper-preview.jpg"
+    },
+	{
+      "id": 330,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/bulbasaur-adventures-pokemon-wallpaper-preview.jpg"
+    },
+	{
+      "id": 331,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/neon-pikachu-black-background-wallpaper-preview.jpg"
+    },
+	{
+      "id": 332,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/pikachu-pokemon-13310.jpg"
+    },
+	{
+      "id": 333,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/6e/65/fd/6e65fd7e824ae27a62db1a3d69fe0a58.jpg"
+    },
+	{
+      "id": 334,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/1f/19/1a/1f191a93cd6c742a74eef7ca5aafe058.jpg"
+    },
+	{
+      "id": 335,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/08/9a/f2/089af24e91018ca4cc9498e1a48632b4.jpg"
+    },
+	{
+      "id": 336,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/983/983545.jpg"
+    },
+	{
+      "id": 337,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp7668269.jpg"
+    },
+	{
+      "id": 338,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://e0.pxfuel.com/wallpapers/870/548/desktop-wallpaper-pokemon-iphone-top-best-pokemon-iphone-background-blue-pokemon.jpg"
+    },
+	{
+      "id": 339,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallup.net/wp-content/uploads/2019/10/946277-pokemon-748x1029.jpg"
+    },
+	{
+      "id": 340,
+      "name_category": "POKEMON",
+      "wallpaper_name": "Pokemon Wallpaper 50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://s2.best-wallpaper.net/wallpaper/iphone/1607/Pokemon-classic-anime_iphone_750x1334.jpg"
+    },
+	{
+      "id": 341,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/hatake-kakashi-green-forest-naruto-wallpaper-preview.jpg"
+    },
+	{
+      "id": 342,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/epic-naruto-sitting-on-pumpkin-halloween-wallpaper-preview.jpg"
+    },
+	{
+      "id": 343,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/naruto-epic-side-flare-orange-wallpaper-preview.jpg"
+    },
+	{
+      "id": 344,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/naruto-uzumaki-cartoon-flame-cape-wallpaper-preview.jpg"
+    },
+	{
+      "id": 345,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/naruto-victory-pose-wallpaper-preview.jpg"
+    },
+	{
+      "id": 346,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/naruto-uzumaki-cherry-blossom-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 347,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/determined-naruto-red-eyes-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 348,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/itachi-uchiha-akatsuki-red-aura-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 349,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/04/madara-uchiha-blue-flames-naruto-wallpaper-preview.jpg"
+    },
+	{
+      "id": 350,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/itachi-uchiha-hypebeast-ninja-wallpaper-preview.jpg"
+    },
+	{
+      "id": 351,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/hinata-hyuga-anime-forest-blush-wallpaper-preview.jpg"
+    },
+	{
+      "id": 352,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/itachi-hypebeast-purple-glow-manga-wallpaper-preview.jpg"
+    },
+	{
+      "id": 353,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/itachi-urban-style-hypebeast-wallpaper-preview.jpg"
+    },
+	{
+      "id": 354,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/sasuke-uchiha-purple-lightning-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 355,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/sasuke-hypebeast-green-glow-wallpaper-preview.jpg"
+    },
+	{
+      "id": 356,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/itachi-uchiha-red-background-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 357,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/itachi-akatsuki-ravens-dusk-halloween-wallpaper-preview.jpg"
+    },
+	{
+      "id": 358,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/sasuke-uchiha-neon-green-style-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 359,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/itachi-uchiha-purple-smoke-naruto-wallpaper-preview.jpg"
+    },
+	{
+      "id": 360,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/kakashi-art-style-aesthetic-naruto-wallpaper-preview.jpg"
+    },
+	{
+      "id": 361,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/naruto-uzumaki-iconic-pose-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 362,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/naruto-uzumaki-cartoon-flame-cape-wallpaper-preview.jpg"
+    },
+	{
+      "id": 363,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/kakashi-hatake-sky-portrait-wallpaper-preview.jpg"
+    },
+	{
+      "id": 364,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "http://wallpapers-clan.com/wp-content/uploads/2025/05/madara-uchiha-cool-style-naruto-wallpaper-preview.jpg"
+    },
+	{
+      "id": 365,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/04/rock-lee-punch-naruto-blue-wallpaper-preview.jpg"
+    },
+	{
+      "id": 366,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/madara-uchiha-naruto-villain-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 367,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/naruto-cool-black-wallpaper-preview.jpg"
+    },
+	{
+      "id": 368,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/04/madara-uchiha-blue-flames-naruto-wallpaper-preview.jpg"
+    },
+	{
+      "id": 369,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/itachi-uchiha-amoled-dark-wallpaper-preview.jpg"
+    },
+	{
+      "id": 370,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/kakashi-hatake-silence-mode-wallpaper-preview.jpg"
+    },
+	{
+      "id": 371,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/naruto-rasengan-blue-energy-wallpaper-preview.jpg"
+    },
+	{
+      "id": 372,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/naruto-anime-aesthetic-ninja-wallpaper-preview.jpg"
+    },
+	{
+      "id": 373,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/itachi-uchiha-red-flowers-wallpaper-preview.jpg"
+    },
+	{
+      "id": 374,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/naruto-pointing-black-wallpaper-preview.jpg"
+    },
+	{
+      "id": 375,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/itachi-uchiha-red-moon-wallpaper-1-scaled.jpg"
+    },
+	{
+      "id": 376,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/naruto-black-background-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 377,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/tobi-obito-uchiha-red-moon-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 378,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/05/naruto-madara-black-anime-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 379,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/05/naruto-uzumaki-cool-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 380,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/b/3/d/142582-2160x3840-iphone-4k-naruto-wallpaper-image.jpg"
+    },
+	{
+      "id": 381,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012863.png"
+    },
+	{
+      "id": 382,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012864.png"
+    },
+	{
+      "id": 383,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://s2.best-wallpaper.net/wallpaper/iphone/1309/TV-anime-Naruto_iphone_750x1334.jpg"
+    },
+	{
+      "id": 384,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/05/smiling-naruto-black-wallpaper.jpg"
+    },
+	{
+      "id": 385,
+      "name_category": "NARUTO",
+      "wallpaper_name": "Naruto Wallpaper 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp10601456.jpg"
+    },
+	{
+      "id": 386,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/luffy-one-piece-red-glow-wallpaper-preview.jpg"
+    },
+	{
+      "id": 387,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/one-piece-decisive-luffy-straw-hat-red-wallpaper-preview.jpg"
+    },
+	{
+      "id": 388,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/roronoa-zoro-samurai-glow-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 389,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/trafalgar-law-one-piece-power-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 390,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/zoro-half-face-glow-wallpaper-preview.jpg"
+    },
+	{
+      "id": 391,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/zoro-green-flames-hypebeast-onepiece-wallpaper-preview.jpg"
+    },
+	{
+      "id": 392,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/03/ronoa-zoro-glowing-eye-green-black-wallpaper-preview.jpg"
+    },
+	{
+      "id": 393,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/rononoa-zoro-lime-green-wallpaper-pr.jpg"
+    },
+	{
+      "id": 394,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/05/one-piece-aesthetic-zoro-pinky-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 395,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/stunning-luffy-and-zoro-one-piece-matching-wallpaper-preview.jpg"
+    },
+	{
+      "id": 396,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/fiery-zoro-halloween-anime-hd-wallpaper-preview.jpg"
+    },
+	{
+      "id": 397,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/roronoa-zoro-samurai-glow-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 398,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/roronoa-zoro-anime-swordsman-one-piece-wallpaper-preview.jpg"
+    },
+	{
+      "id": 399,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/monkey-d-luffy-red-eye-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 400,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/one-piece-doflamingo-neon-villain-wallpaper-preview.jpg"
+    },
+	{
+      "id": 401,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/chopper-one-piece-red-glasses-wallpaper-preview.jpg"
+    },
+	{
+      "id": 402,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/luffy-smile-red-minimalist-one-piece-wallpaper-preview.jpg"
+    },
+	{
+      "id": 403,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/one-piece-monkey-d-luffy-blue-wallpaper-preview.jpg"
+    },
+	{
+      "id": 404,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/luffy-one-piece-epic-action-wallpaper-preview.jpg"
+    },
+	{
+      "id": 405,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/one-piece-the-going-merry-ship-wallpaper-preview.jpg"
+    },
+	{
+      "id": 406,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/03/monkey-d.-luffy-vs-roronoa-zoro-intense-duel-matching-wallpaper-preview.jpg"
+    },
+	{
+      "id": 407,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/one-piece-undead-samurai-ryuma-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 408,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/luffy-gear-four-fire-punch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 409,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/zoro-hypebeast-one-piece-green-flare-wallpaper-preview.jpg"
+    },
+	{
+      "id": 410,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/one-piece-ace-halloween-orange-wallpaper-preview.jpg"
+    },
+	{
+      "id": 411,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/roronoa-zoro-hypebeast-red-glow-wallpaper-preview.jpg"
+    },
+	{
+      "id": 412,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/oronoa-zoro-art-red-blue-matching-wallpaper-2-scaled.jpg"
+    },
+	{
+      "id": 413,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/fierce-luffy-and-sanji-straw-hat-rivals-matching-wallpaper-preview.jpg"
+    },
+	{
+      "id": 414,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp7866376.jpg"
+    },
+	{
+      "id": 415,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/12/luffy-hypebeast-streetwear-cool-wallpaper-preview.jpg"
+    },
+	{
+      "id": 416,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/luffy-and-zoro-one-piece-dual-matching-wallpaper-preview-scaled.jpg"
+    },
+	{
+      "id": 417,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/monkey-d-luffy-straw-hat-action-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 418,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/luffy-zoro-mugiwara-swordsman-matching-wallpaper-preview.jpg"
+    },
+	{
+      "id": 419,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/monkey-d-luffy-iconic-straw-hat-profile-wallpaper-preview.jpg"
+    },
+	{
+      "id": 420,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/luffy-epic-punch-flame-background-wallpaper-preview.jpg"
+    },
+	{
+      "id": 421,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/luffy-one-piece-reach-out-wallpaper-preview.jpg"
+    },
+	{
+      "id": 422,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/luffy-one-piece-epic-pose-dark-wallpaper-preview.jpg"
+    },
+	{
+      "id": 423,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/luffy-punching-action-pose-wallpaper-preview.jpg"
+    },
+	{
+      "id": 424,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/07/one-piece-d-luffy-anime-wallpaper.jpg"
+    },
+	{
+      "id": 425,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/ace-one-piece-cool-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 426,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/luffy-with-glowing-eyes-intense-stare-wallpaper-preview.jpg"
+    },
+	{
+      "id": 427,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/one-piece-shanks-face-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 428,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/luffy-gear-5-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 429,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/luffy-one-piece-epic-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 430,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/monkey-d-luffy-one-piece-epic-hero-wallpaper-preview.jpg"
+    },
+	{
+      "id": 431,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/tony-tony-chopper-halloween-wallpaper-preview.jpg"
+    },
+	{
+      "id": 432,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/luffy-one-piece-neon-colors-wallpaper-preview.jpg"
+    },
+	{
+      "id": 433,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/one-piece-luffy-intense-face-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 434,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/one-piece-luffy-fiery-intensity-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 435,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/one-piece-straw-hat-crew-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 436,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/987/thumb-1920-987493.jpg"
+    },
+	{
+      "id": 437,
+      "name_category": "ONE PIECE",
+      "wallpaper_name": "One Piece Wallpaper 52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp14436274.jpg"
+    },
+	{
+      "id": 438,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/10/one-punch-man-saitama-in-jacket-red-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 439,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/saitama-one-punch-man-serious-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 440,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/saitama-one-punch-man-serious-mode-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 441,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/one-punch-man-saitama-black-aesthetic-wallpaper-pr.jpg"
+    },
+	{
+      "id": 442,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/one-punch-man-saitama-genos-fiery-matching-wallpaper-2-preview.jpg"
+    },
+	{
+      "id": 443,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/19/21/d7/1921d7fe06a63e922724dbe03443be67.jpg"
+    },
+	{
+      "id": 444,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.kolpaper.com/wp-content/uploads/2020/12/One-Punch-Man-Wallpaper-iPhone.jpg"
+    },
+	{
+      "id": 445,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/98/05/67/98056744451a5a903f1a25feca01b3a9.jpg"
+    },
+	{
+      "id": 446,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i0.wp.com/www.3wallpapers.fr/wp-content/uploads/2016/01/one-punch-man-genos-3Wallpapers-iPhone-Parallax.jpg?ssl=1"
+    },
+	{
+      "id": 447,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a5/f6/86/a5f686833f613d5dd8fb4672a165b27b.jpg"
+    },
+	{
+      "id": 448,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/saitama-from-human-to-god-one-punch-man-en-1280x2120.jpg"
+    },
+	{
+      "id": 449,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/one-punch-man-4k-of-1280x2120.jpg"
+    },
+	{
+      "id": 450,
+      "name_category": "ONE PUNCH MAN",
+      "wallpaper_name": "One Punch Man Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/04/saitama-one-punch-man-anime-black-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 451,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/bakugo-my-hero-academia-fire-halloween-wallpaper-preview.jpg"
+    },
+	{
+      "id": 452,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/04/my-hero-academia-deku-green-wallpaper.jpg"
+    },
+	{
+      "id": 453,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/my-hero-academia-bakugo-katsuki-blast-wallpaper-preview.jpg"
+    },
+	{
+      "id": 454,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/bakugo-katsuki-explosion-mha-wallpaper-preview.jpg"
+    },
+	{
+      "id": 455,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/03/shoto-todoroki-fiery-ice-hero-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 456,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/mysterious-sci-fi-deku-eyes-shadow-wallpaper-preview.jpg"
+    },
+	{
+      "id": 457,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "http://wallpapers-clan.com/wp-content/uploads/2024/02/my-hero-academia-serious-deku-green-wallpaper-pr.jpg"
+    },
+	{
+      "id": 458,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/mha-deku-electric-energy-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 459,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2021/01/mha-izuku-midoriya-green-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 460,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/deku-my-hero-academia-intense-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 461,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/my-hero-academia-ochaco-uraraka-heroic-wallpaper-preview-scaled.jpg"
+    },
+	{
+      "id": 462,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/deku-mha-rising-hero-dramatic-tap-to-switch-wallpaper-2-preview.jpg"
+    },
+	{
+      "id": 463,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/my-hero-academia-izuku-midoriya-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 464,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/my-hero-academia-lovable-deku-wallpaper-pr.jpg"
+    },
+	{
+      "id": 465,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/mha-shoto-todoroki-fire-and-ice-matching-wallpaper-2-preview.jpg"
+    },
+	{
+      "id": 466,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/deku-green-background-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 467,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/9/d/9/79690-2160x3840-iphone-4k-my-hero-academia-wallpaper-image.jpg"
+    },
+	{
+      "id": 468,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.pixelstalk.net/wp-content/uploads/images6/My-Hero-Academia-Phone-Wallpaper-High-Resolution.png"
+    },
+	{
+      "id": 469,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp11225443.jpg"
+    },
+	{
+      "id": 470,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/985/985741.jpg"
+    },
+	{
+      "id": 471,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/my-hero-academia-deku-electric-power-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 472,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.pixelstalk.net/wp-content/uploads/images6/My-Hero-Academia-Phone-Wallpaper-HD.png"
+    },
+	{
+      "id": 473,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/90/9035822f0545059421e3e95b65e1175c.jpeg"
+    },
+	{
+      "id": 474,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/mha-shoto-todoroki-fire-ice-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 475,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a0/c8/55/a0c8555acf402e597d96d5cd77903775.jpg"
+    },
+	{
+      "id": 476,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/d5/d5fed9270fd8fe8407e51883e34bcd75.jpeg"
+    },
+	{
+      "id": 477,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/67/67147b6d62b3560faf2484b52b74e826.jpeg"
+    },
+	{
+      "id": 478,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/e/c/8/78159-1280x2120-mobile-hd-my-hero-academia-background-photo.jpg"
+    },
+	{
+      "id": 479,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/6/8/a/79406-2160x3840-mobile-4k-my-hero-academia-background.jpg"
+    },
+	{
+      "id": 480,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/katsuki-bakugou-y-izuku-midoriya-my-hero-academia-3382.jpg"
+    },
+	{
+      "id": 481,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/dabi-my-hero-acadmeia-dv-1080x2400.jpg"
+    },
+	{
+      "id": 482,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/katsuki-bakugou-my-hero-academic-4k-3o-1080x2400.jpg"
+    },
+	{
+      "id": 483,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp14831696.webp"
+    },
+	{
+      "id": 484,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/my-hero-academia-bakugo-katsuki-blast-wallpaper-preview.jpg"
+    },
+	{
+      "id": 485,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/dabi-from-my-hero-academia-3r-1080x2400.jpg"
+    },
+	{
+      "id": 486,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp4342988.jpg"
+    },
+	{
+      "id": 487,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/izuku-midoriya-my-hero-academia-3392.jpg"
+    },
+	{
+      "id": 488,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/izuku-midoriya-deku-de-my-hero-academia-13158.jpg"
+    },
+	{
+      "id": 489,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/ae/ae5d6be68296df78479a7811e3d01edc.jpeg"
+    },
+	{
+      "id": 490,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/shoto-todoroki-my-hero-academia-3368.jpg"
+    },
+	{
+      "id": 491,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.wallpapersafari.com/8/27/PiJvE8.jpg"
+    },
+	{
+      "id": 492,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/dabi-boku-no-hero-l434j0f0qcb34jpp.jpg"
+    },
+	{
+      "id": 493,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/dabi-my-hero-academia-3387.jpg"
+    },
+	{
+      "id": 494,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/10/10748f83866b0ff0467839bf6dc9d029.jpeg"
+    },
+	{
+      "id": 495,
+      "name_category": "MY HERO ACADEMIA",
+      "wallpaper_name": "My Hero Academia Wallpaper 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/02/fb/d6/02fbd693732e2800efe8bfdf8629b755.jpg"
+    },
+	{
+      "id": 496,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/raiden-shogun-genshin-impact-purple-wallpaper-preview.jpg"
+    },
+	{
+      "id": 497,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/03/klee-genshin-impact-meadow-bunny-wallpaper-preview.jpg"
+    },
+	{
+      "id": 498,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/genshin-impact-character-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 499,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/arlecchino-genshin-impact-dark-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 500,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/genshin-impact-albedo-sunny-field-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 501,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/arlecchino-genshin-impact-anime-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 502,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a0/9b/a3/a09ba3dd632efa5d13d743a818921a04.jpg"
+    },
+	{
+      "id": 503,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://c4.wallpaperflare.com/wallpaper/461/620/894/anime-anime-girls-wanderer-genshin-impact-hd-wallpaper-preview.jpg"
+    },
+	{
+      "id": 504,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/01/01ca782ee20f61e0952d9ad318f38035.jpeg"
+    },
+	{
+      "id": 505,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/viajero-aether-y-lumine-from-genshin-impact-7761.jpg"
+    },
+	{
+      "id": 506,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp11293116.jpg"
+    },
+	{
+      "id": 507,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://e1.pxfuel.com/desktop-wallpaper/65/97/desktop-wallpaper-mona-genshin-impact-phone-iphone-genshin-impact-android.jpg"
+    },
+	{
+      "id": 508,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/e/0/e/91404-1080x2340-iphone-hd-genshin-impact-wallpaper.jpg"
+    },
+	{
+      "id": 509,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://e1.pxfuel.com/desktop-wallpaper/152/414/desktop-wallpaper-xiao-from-genshin-impact-ultra-id-6706-genshin-impact-android.jpg"
+    },
+	{
+      "id": 560,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/1012862.png"
+    },
+	{
+      "id": 561,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/1012861.png"
+    },
+	{
+      "id": 562,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/zhongli-genshin-impact-fanmade-9074.jpg"
+    },
+	{
+      "id": 563,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/genshin-impact-nahida-aether-paimon-10857.jpg"
+    },
+	{
+      "id": 564,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/personaje-nahida-genshin-impact-juego-10860.jpg"
+    },
+	{
+      "id": 565,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/genshin-impact-yelan-y-kuki-shinobu-10319.jpg"
+    },
+	{
+      "id": 566,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/27/54/bb/2754bb8639f0384da878dc11bf2efcc2.jpg"
+    },
+	{
+      "id": 567,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14f36ed2-6f7f-4f2d-bb44-5e38f4210a2f/dgsmvu2-b57cf0df-6694-41f0-9c50-3b5bbc9b2387.png/v1/fill/w_1280,h_2770,q_80,strp/alhaitham__genshin_impact__iphone_wallpaper_by_kamisatohaitham98_dgsmvu2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3MCIsInBhdGgiOiIvZi8xNGYzNmVkMi02ZjdmLTRmMmQtYmI0NC01ZTM4ZjQyMTBhMmYvZGdzbXZ1Mi1iNTdjZjBkZi02Njk0LTQxZjAtOWM1MC0zYjViYmM5YjIzODcucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.w6HF3Uk3JPYj_BCpLe5JGrIHOcdXD5BmfdEP8xjif1s"
+    },
+	{
+      "id": 568,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/0a/0aae14d4f183c72eb3778f6aa9c3810e.jpeg"
+    },
+	{
+      "id": 569,
+      "name_category": "GENSHIN IMPACT",
+      "wallpaper_name": "Genshin Impact Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.kolpaper.com/wp-content/uploads/2021/02/Xiao-Genshin-Impact-Wallpaper-8.jpg"
+    },
+	{
+      "id": 570,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/natsu-dragneel-fairy-tail-73-1440x2960.jpg"
+    },
+	{
+      "id": 571,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/natsu-dragneel-z3-1440x2960.jpg"
+    },
+	{
+      "id": 572,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://images.hdqwalls.com/download/anime-fairy-tail-6i-1440x2960.jpg"
+    },
+	{
+      "id": 573,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/fairy-tail-flying-happy-cat-wallpaper-preview.jpg"
+    },
+	{
+      "id": 574,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/03/fairy-tail-guild-power-team-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 575,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.theanimegallery.com/theanimegallery/e5e14260-e9be-4063-b173-f1ffced1618f-fairy-tail-wallpaper.webp"
+    },
+	{
+      "id": 576,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.theanimegallery.com/theanimegallery/7f713dd5-4ebc-468b-b4dd-45db38ab0ddf-fairy-tail-wallpaper.webp"
+    },
+	{
+      "id": 577,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.theanimegallery.com/theanimegallery/20844d60-518e-4bdb-b353-a0292cd1f53e-fairy-tail-wallpaper.webp"
+    },
+	{
+      "id": 578,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.theanimegallery.com/theanimegallery/d19af51a-e7d7-4982-9ba8-e3cdef79460a-fairy-tail-wallpaper.webp"
+    },
+	{
+      "id": 579,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/c0/87/54/c087543e70d1518bf99297b39e1f6d1a.jpg"
+    },
+	{
+      "id": 580,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp14466517.jpg"
+    },
+	{
+      "id": 581,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "http://mfiles.alphacoders.com/647/647982.png"
+    },
+	{
+      "id": 582,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/fairy-tail-iphone-xxxpuljoyob3tujt.jpg"
+    },
+	{
+      "id": 583,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/742/742508.png"
+    },
+	{
+      "id": 584,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/fairy-tail-iphone-78alqm0jr0ge2yjp.jpg"
+    },
+	{
+      "id": 585,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/740/740037.png"
+    },
+	{
+      "id": 586,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/744/thumb-1920-744628.jpg"
+    },
+	{
+      "id": 587,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/744/744309.png"
+    },
+	{
+      "id": 588,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://e0.pxfuel.com/wallpapers/157/837/desktop-wallpaper-i-made-this-of-gray-fairytail-fairy-tail-grey.jpg"
+    },
+	{
+      "id": 589,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/97/97d969316dd12fa721440ae118743943.jpeg"
+    },
+	{
+      "id": 590,
+      "name_category": "FAIRY TAIL",
+      "wallpaper_name": "Fairy Tail Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/gajeel-redfox-1054-x-1786-wallpaper-yq6o7f07zc4pgpid.jpg"
+    },
+	{
+      "id": 591,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/trunks-crossed-arms-dragon-ball-wallpaper-preview.jpg"
+    },
+	{
+      "id": 592,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/dragon-ball-broly-legendary-warrior-wallpaper-preview.jpg"
+    },
+	{
+      "id": 593,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/dragon-ball-majin-buu-purple-energy-wallpaper-preview.jpg"
+    },
+	{
+      "id": 594,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.theanimegallery.com/theanimegallery/c022a71d-cb96-4a11-86e4-ede9a3dc795f-dragon-ball-z-iphone-wallpaper.webp"
+    },
+	{
+      "id": 595,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/goku-black-rose-energy-wallpaper-preview.jpg"
+    },
+	{
+      "id": 596,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/goku-anime-hd-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 597,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/epic-goku-battle-ready-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 598,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/goku-dragon-ball-action-wallpaper-preview.jpg"
+    },
+	{
+      "id": 599,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/757/757136.png"
+    },
+	{
+      "id": 600,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/epic-goku-stuning-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 591,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/goku-warrior-dragon-ball-wallpaper-preview.jpg"
+    },
+	{
+      "id": 601,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/goku-super-saiyan-epic-wallpaper-preview.jpg"
+    },
+	{
+      "id": 602,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/goku-with-pumpkin-halloween-wallpaper-preview.jpg"
+    },
+	{
+      "id": 603,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp3083265.jpg"
+    },
+	{
+      "id": 604,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/goku-action-pose-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 605,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/goku-powerful-anime-hero-wallpaper-preview.jpg"
+    },
+	{
+      "id": 606,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp3218183.jpg"
+    },
+	{
+      "id": 607,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp13827769.jpg"
+    },
+	{
+      "id": 608,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/goku-mighty-pink-aura-cool-wallpaper-preview.jpg"
+    },
+	{
+      "id": 609,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/goku-dragon-ball-pink-glow-wallpaper.jpg"
+    },
+	{
+      "id": 610,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/goku-blue-aura-black-wallpaper-preview.jpg"
+    },
+	{
+      "id": 611,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/goku-black-rose-energy-wallpaper-preview.jpg"
+    },
+	{
+      "id": 612,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/goku-black-shadow-mode-gradient-wallpaper-preview.jpg"
+    },
+	{
+      "id": 613,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/dragon-ball-broly-epic-clipart-wallpaper-preview.jpg"
+    },
+	{
+      "id": 614,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/11/71/bd/1171bd783469c7faaa8de24187b3ee65.jpg"
+    },
+	{
+      "id": 615,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/trunks-dragon-ball-z-wallpaper-preview.jpg"
+    },
+	{
+      "id": 616,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/super-saiyan-goten-black-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 617,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/dragon-ball-goten-glow-power-black-wallpaper-preview.jpg"
+    },
+	{
+      "id": 618,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/03/powerful-goku-ultra-instinct-blue-flames-wallpaper-preview.jpg"
+    },
+	{
+      "id": 619,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/07/dragon-ball-vegeta-anime-wallpaper.jpg"
+    },
+	{
+      "id": 620,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/vegeta-pride-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 621,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/04/goku-super-saiyan-4-wallpaper-preview.jpg"
+    },
+	{
+      "id": 622,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/broly-power-up-dragon-ball-wallpaper-preview.jpg"
+    },
+	{
+      "id": 623,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/goku-dragon-ball-half-face-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 624,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/dragon-ball-gohan-dark-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 625,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/dragon-ball-krillin-fighter-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 626,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/vegeta-blue-glare-intimidating-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 627,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/dragon-ball-gohan-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 628,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/master-roshi-kame-house-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 629,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/goku-black-and-red-power-ball-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 630,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/goku-super-saiyan-dragonball-z-wallpaper-preview.jpg"
+    },
+	{
+      "id": 631,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/epic-piccolo-dark-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 632,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/03/super-buu-face-dragon-ball-wallpaper-preview.jpg"
+    },
+	{
+      "id": 633,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/10/dragon-ball-goku-epic-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 634,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/764/thumb-1920-764329.png"
+    },
+	{
+      "id": 635,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/trunks-con-espada-dragon-ball-13067.jpg"
+    },
+	{
+      "id": 636,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.theanimegallery.com/theanimegallery/e9557e2d-9369-4cc7-8a93-ae573af4243a-dragon-ball-super-wallpaper-4k.webp"
+    },
+	{
+      "id": 637,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaper.forfun.com/fetch/96/96d7ccc1d84934c103389e98eaaa1f29.jpeg"
+    },
+	{
+      "id": 638,
+      "name_category": "DRAGON BALL",
+      "wallpaper_name": "Dragon Ball Wallpaper 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp8962294.jpg"
+    },
+	{
+      "id": 640,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/kLUq5X57-fond-decran-Demon-Slayer-36.webp"
+    },
+	{
+      "id": 641,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/DRHaOIys-fond-decran-Demon-Slayer-24.webp"
+    },
+	{
+      "id": 642,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/7lml927X-fond-decran-Demon-Slayer-35.webp"
+    },
+	{
+      "id": 643,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/9qAo3oy5-fond-decran-Demon-Slayer-11.webp"
+    },
+	{
+      "id": 644,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/dFPSm8in-fond-decran-Demon-Slayer-22.webp"
+    },
+	{
+      "id": 645,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/uYtgpziq-fond-decran-Demon-Slayer-33.webp"
+    },
+	{
+      "id": 646,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/nqZWKxWK-fond-decran-Demon-Slayer-21.webp"
+    },
+	{
+      "id": 647,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/Leu2vtbp-fond-decran-Demon-Slayer-8.webp"
+    },
+	{
+      "id": 648,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/Xgzd37a3-fond-decran-Demon-Slayer-32.webp"
+    },
+	{
+      "id": 649,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/nmo5ATO3-fond-decran-Demon-Slayer-7.webp"
+    },
+	{
+      "id": 650,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/JfBk4xCo-fond-decran-Demon-Slayer-19.webp"
+    },
+	{
+      "id": 651,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/J2yex9Jy-fond-decran-Demon-Slayer-30.webp"
+    },
+	{
+      "id": 652,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/QeY2bYAw-fond-decran-Demon-Slayer-18.webp"
+    },
+	{
+      "id": 653,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/Ez3LP1bM-fond-decran-Demon-Slayer-29.webp"
+    },
+	{
+      "id": 654,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/tRggdilv-fond-decran-Demon-Slayer-16.webp"
+    },
+	{
+      "id": 655,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/GlUeK4nB-fond-decran-Demon-Slayer-26.webp"
+    },
+	{
+      "id": 656,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2024/12/mnOc3HKf-fond-decran-Demon-Slayer-14.webp"
+    },
+	{
+      "id": 657,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/101/thumb-1920-1012645.png"
+    },
+	{
+      "id": 658,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/zenitsu-agatsuma-demon-slayer-halloween-ghosts-wallpaper-preview.jpg"
+    },
+	{
+      "id": 659,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/demon-slayer-zenitsu-electric-strike-wallpaper-preview.jpg"
+    },
+	{
+      "id": 660,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/swordfighter-zenitsu-demon-slayer-epic-wallpaper-preview.jpg"
+    },
+	{
+      "id": 661,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/09/demon-slayer-zenitsu-agatsuma-yellow-wallpaper.jpg"
+    },
+	{
+      "id": 662,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/swordfighter-zenitsu-demon-slayer-epic-wallpaper-preview.jpg"
+    },
+	{
+      "id": 663,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/zenitsu-agatsuma-demon-slayer-epic-night-wallpaper-preview.jpg"
+    },
+	{
+      "id": 664,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/11/zenitsu-agatsuma-with-sword-cool-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 665,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/demon-slayer-zenitsu-glowing-eyes-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 666,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/09/tanjiro-kamado-glitch-art-wallpaper.jpg"
+    },
+	{
+      "id": 667,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/demon-slayer-tanjiro-blue-lightning-sword-wallpaper-preview.jpg"
+    },
+	{
+      "id": 668,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/07/tanjiro-kamado-dance-of-the-fire-god-wallpaper.jpg"
+    },
+	{
+      "id": 669,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/tanjiro-demon-slayer-glowing-eyes-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 670,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/10/tanjiro-behind-the-wave-art-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 671,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/halloween-tanjiro-demon-slayer-wallpaper-preview.jpg"
+    },
+	{
+      "id": 672,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/demon-slayer-tanjiro-nezuko-forest-glow-wallpaper-preview.jpg"
+    },
+	{
+      "id": 673,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/tanjiro-glowing-eyes-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 674,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/10/tanjiro-with-green-neon-katana-anime-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 675,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/tanjiro-with-katana-lightning-wallpaper-preview.jpg"
+    },
+	{
+      "id": 676,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/10/demon-slayer-tanjiro-nezuko-anime-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 678,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/demon-slayer-tanjiro-green-flame-dark-style-wallpaper-preview.jpg"
+    },
+	{
+      "id": 679,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/tanjiro-kamado-cozy-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 680,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/featured/demon-slayer-iphone-11-2fnjkejbmmo3my24.jpg"
+    },
+	{
+      "id": 681,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.wallpapersafari.com/23/34/YIxDhu.jpg"
+    },
+	{
+      "id": 682,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/demon-slayer-iphone-11-thkew6nq8htjwrn8.jpg"
+    },
+	{
+      "id": 683,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/c7/ba/83/c7ba83d20e25bfb5b469381ebbdfd767.jpg"
+    },
+	{
+      "id": 684,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/100/1008042.png"
+    },
+	{
+      "id": 685,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/tanjiro-demon-slayer-eye-closeup-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 686,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/stunning-tanjiro-kamado-demon-slayer-tap-to-switch-wallpaper-preview.jpg"
+    },
+	{
+      "id": 687,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/nezuko-kamado-cute-peek-pink-wallpaper-preview.jpg"
+    },
+	{
+      "id": 689,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/11/demon-slayer-beautiful-nezuko-kamado-art-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 690,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/demon-slayer-nezuko-bamboo-muzzle-green-glow-wallpaper-preview.jpg"
+    },
+	{
+      "id": 691,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/nezuko-cherry-blossoms-wallpaper-preview.jpg"
+    },
+	{
+      "id": 692,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/demon-slayer-gyomei-himejima-face-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 693,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/11/demon-slayer-giyu-tomioka-captivating-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 694,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/demon-slayer-giyu-tomioka-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 695,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/03/neon-giyu-tomioka-demon-slayer-wallpaper-preview.jpg"
+    },
+	{
+      "id": 696,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/11/demon-slayer-giyu-tomioka-free-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 697,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/beautiful-shinobu-kocho-demon-slayer-wallpaper-preview.jpg"
+    },
+	{
+      "id": 698,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/02/inosuke-hashibira-sword-fighting-demon-slayer-wallpaper-preview.jpg"
+    },
+	{
+      "id": 699,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "http://wallpapers-clan.com/wp-content/uploads/2023/12/demon-slayer-yoriichi-tsugikuni-art-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 700,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/07/muichiro-tokito-demon-slayer-blurred-scene-wallpaper-preview.jpg"
+    },
+	{
+      "id": 701,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/demon-slayer-tanjiro-team-muzan-shadow-wallpaper-preview.jpg"
+    },
+	{
+      "id": 702,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 61",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/glowing-eye-shinobu-kocho-anime-wallpaper-preview.jpg"
+    },
+	{
+      "id": 703,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/11/sanemi-shinazugawa-demon-slayer-sword-wallpaper-preview.jpg"
+    },
+	{
+      "id": 704,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/10/giyu-tomioka-demon-slayer-wallpaper-preview.jpg"
+    },
+	{
+      "id": 705,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/shinobu-kocho-demon-slayer-purple-wisterias-wallpaper-preview-scaled.jpg"
+    },
+	{
+      "id": 706,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/09/demon-slayer-inosuke-fiery-blue-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 707,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/05/muichiro-tokito-cool-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 708,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/serpent-hashira-demon-slayer-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 709,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/03/tengen-uzui-glowing-eye-demon-slayer-wallpaper-preview.jpg"
+    },
+	{
+      "id": 710,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/07/demon-slayer-mitsuri-kanroji-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 711,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/yoriichi-tsugikuni-neon-blade-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 712,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/demon-slayer-kokushibo-with-sword-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 713,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/rengoku-demon-slayer-pink-glow-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 714,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/inosuke-demon-slayer-green-sword-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 715,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/tengen-uzui-demon-slayer-pink-flame-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 716,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/demon-slayer-mysterious-douma-eye-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 717,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 77",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/11/demon-slayer-mitsuri-kanroji-wiht-katana-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 718,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/09/tanjiro-kamado-flame-black-wallpaper.jpg"
+    },
+	{
+      "id": 719,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/demon-slayer-obanai-iguro-cool-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 720,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/11/demon-slayer-angry-nezuko-kamado-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 721,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 81",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/demon-slayer-muichiro-tokito-yellow-wallpaper-preview.jpg"
+    }
+  ]
+}
