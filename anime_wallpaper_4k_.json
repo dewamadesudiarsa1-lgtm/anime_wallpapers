@@ -2,9 +2,9 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "open_app_ads":"",
+      "main_ads_banner": "ca-app-pub-8504065955420162/6517079568",
+      "main_ads_intertitial":"ca-app-pub-8504065955420162/7678010196",
+      "open_app_ads":"ca-app-pub-8504065955420162/8808200983",
       "interval_intertitial": 3,
       "initialize_sdk":"107355779",
       "status_app": "0",
@@ -4775,6 +4775,20 @@
       "wallpaper_name": "Demon Slayer Wallpaper 81",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/02/demon-slayer-muichiro-tokito-yellow-wallpaper-preview.jpg"
+    },
+	  {
+      "id": 722,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 82",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mfiles.alphacoders.com/100/1007935.jpg"
+    },
+	  {
+      "id": 723,
+      "name_category": "DEMON SLAYER",
+      "wallpaper_name": "Demon Slayer Wallpaper 83",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5pL6UpBCWnfPnCxt-hQn17z-poRouZeno9OTnNlQhf9YJKYW8nKLi0ZvcpXOgWNKZ6M7j3Xk2OQ8WqL0DgBkbSUs-3EI3A45INtFd8_sw1mQgy_XTQCnuyiVlxttlro_XiCobyReuL2ZP/w1600/demon-slayer-kyojuro-rengoku-vs-akaza-wallpaper-iphone.jpg"
     }
   ]
 }
